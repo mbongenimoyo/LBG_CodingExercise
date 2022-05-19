@@ -1,0 +1,67 @@
+{
+  "BrandName": "MadeUp Bank",
+  "ATM": [
+    {
+      "Identification": "LFFFBC11",
+      "SupportedCurrencies": [
+        "GBP"
+      ],
+      "Location": {
+        "PostalAddress": {
+          "AddressLine": [
+            "1 VICTORIA ROAD;"
+          ],
+          "StreetName": "1 VICTORIA ROAD",
+          "TownName": "CONSETT",
+          "CountrySubDivision": [
+            "COUNTY DURHAM"
+          ],
+          "Country": "GB",
+          "PostCode": "DH8 5AE"
+        }
+      }
+    },
+    {
+      "Identification": "LFFFAC11",
+      "SupportedCurrencies": [
+        "GBP"
+      ],
+      "Location": {
+        "PostalAddress": {
+          "AddressLine": [
+            "1 VICTORIA ROAD;"
+          ],
+          "StreetName": "1 VICTORIA ROAD",
+          "TownName": "CONSETT",
+          "CountrySubDivision": [
+            "COUNTY DURHAM"
+          ],
+          "Country": "GB",
+          "PostCode": "DH8 5AE"
+        }
+      }
+    },
+    {
+      "Identification": "LFFEHC11",
+      "SupportedCurrencies": [
+        "GBP"
+      ],
+      "Location": {
+        "PostalAddress": {
+          "AddressLine": [
+            "17 ELLISON WALK;"
+          ],
+          "StreetName": "17 ELLISON WALK",
+          "TownName": "GATESHEAD",
+          "CountrySubDivision": [
+            "TYNE AND WEAR"
+          ],
+          "Country": "GB",
+          "PostCode": "NE8 1BF"
+        }
+      }
+    }
+  ]
+}
+
+

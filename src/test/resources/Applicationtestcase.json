@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "LastUpdated": "2022-05-10T08:40:49.130Z",
+    "TotalResults": 1848,
+    "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License": "https://www.openbanking.org.uk/open-licence",
+    "TermsOfUse": "https://www.openbanking.org.uk/terms"
+  },
+  "data": [
+    {
+      "Brand": [
+        {
+          "BrandName": "Lloyds Bank",
+          "ATM": [
+            {
+              "Identification": "LFFFBC11",
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Location": {
+                "PostalAddress": {
+                  "AddressLine": [
+                    "1 VICTORIA ROAD;"
+                  ],
+                  "StreetName": "1 VICTORIA ROAD",
+                  "TownName": "CONSETT",
+                  "CountrySubDivision": [
+                    "COUNTY DURHAM"
+                  ],
+                  "Country": "GB",
+                  "PostCode": "DH8 5AE"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
