@@ -25,7 +25,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Service
-@TrackExecutionTime
 public class ATMServiceImpl implements ATMService {
     private final Logger Logger= LogManager.getLogger(ATMServiceImpl.class);
     @Autowired

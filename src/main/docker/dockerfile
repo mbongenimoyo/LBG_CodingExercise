@@ -2,4 +2,5 @@ FROM openjdk:8
 
 COPY --from=build ./gradle/src/build/lib/lgb-spring-app.jar /app/lgb-spring-app.jar
 
+EXPOSE 8080
 ENTRYPOINT["java","-jar","/app/lgb-spring-app.jar"]
